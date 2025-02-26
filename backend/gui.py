@@ -1,5 +1,5 @@
 import tkinter as tk
-from main import encrypt_folder, decrypt_folder
+from backend.index import encrypt_folder, decrypt_folder
 
 def start_encryption():
     encrypt_folder()

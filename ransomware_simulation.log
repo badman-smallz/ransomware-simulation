@@ -279,3 +279,38 @@
 2025-02-26 17:04:55,212 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:55] "POST /socket.io/?EIO=4&transport=polling&t=3wg155h1&sid=cECsu86OEFnSJtESAAAT HTTP/1.1" 200 -
 2025-02-26 17:04:55,264 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:55] "GET /socket.io/?EIO=4&transport=polling&t=3wg16xhy&sid=cECsu86OEFnSJtESAAAT HTTP/1.1" 200 -
 2025-02-26 17:04:55,270 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:55] "GET /socket.io/?EIO=4&transport=polling&t=3wg9vcuk&sid=cECsu86OEFnSJtESAAAT HTTP/1.1" 200 -
+2025-02-26 17:16:20,494 - INFO - 127.0.0.1 - - [26/Feb/2025 17:16:20] "GET /socket.io/?EIO=4&transport=websocket&sid=cECsu86OEFnSJtESAAAT HTTP/1.1" 200 -
+2025-02-26 17:16:20,939 - INFO - 127.0.0.1 - - [26/Feb/2025 17:16:20] "GET /socket.io/?EIO=4&transport=polling&t=4b53hp4l HTTP/1.1" 200 -
+2025-02-26 17:16:21,201 - INFO - 127.0.0.1 - - [26/Feb/2025 17:16:21] "POST /socket.io/?EIO=4&transport=polling&t=4b5cdwef&sid=GojwMnwGyMebQUTOAAAV HTTP/1.1" 200 -
+2025-02-26 17:16:21,252 - INFO - 127.0.0.1 - - [26/Feb/2025 17:16:21] "GET /socket.io/?EIO=4&transport=polling&t=4b5cfncb&sid=GojwMnwGyMebQUTOAAAV HTTP/1.1" 200 -
+2025-02-26 17:16:36,027 - INFO - Encrypted: ransomware_simulation.log
+2025-02-26 17:16:36,029 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 17:16:36,045 - INFO - Encrypted: README.md
+2025-02-26 17:16:36,046 - INFO - Ransom note created.
+2025-02-26 17:16:36,047 - INFO - 127.0.0.1 - - [26/Feb/2025 17:16:36] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 17:16:41,204 - INFO - Decrypted: ransomware_simulation.log.locked
+2025-02-26 17:16:41,216 - INFO - Decrypted: RANSOM_NOTE.txt.locked
+2025-02-26 17:16:41,230 - INFO - Decrypted: README.md.locked
+2025-02-26 17:16:41,230 - INFO - Files successfully decrypted.
+2025-02-26 17:16:41,231 - INFO - 127.0.0.1 - - [26/Feb/2025 17:16:41] "POST /decrypt HTTP/1.1" 200 -
+2025-02-26 18:46:58,245 - INFO - 127.0.0.1 - - [26/Feb/2025 18:46:58] "GET /socket.io/?EIO=4&transport=websocket&sid=GojwMnwGyMebQUTOAAAV HTTP/1.1" 200 -
+2025-02-26 18:46:58,817 - INFO - 127.0.0.1 - - [26/Feb/2025 18:46:58] "GET /socket.io/?EIO=4&transport=polling&t=7joyuk8u HTTP/1.1" 200 -
+2025-02-26 18:46:59,064 - INFO - 127.0.0.1 - - [26/Feb/2025 18:46:59] "POST /socket.io/?EIO=4&transport=polling&t=7jp8pv1y&sid=vYlACfZwvLVkwqzkAAAX HTTP/1.1" 200 -
+2025-02-26 18:46:59,134 - INFO - 127.0.0.1 - - [26/Feb/2025 18:46:59] "GET /socket.io/?EIO=4&transport=polling&t=7jp8tlbf&sid=vYlACfZwvLVkwqzkAAAX HTTP/1.1" 200 -
+2025-02-26 18:46:59,159 - INFO - 127.0.0.1 - - [26/Feb/2025 18:46:59] "GET /socket.io/?EIO=4&transport=polling&t=7jphstl7&sid=vYlACfZwvLVkwqzkAAAX HTTP/1.1" 200 -
+2025-02-26 18:46:59,430 - INFO - 127.0.0.1 - - [26/Feb/2025 18:46:59] "GET /socket.io/?EIO=4&transport=websocket&sid=vYlACfZwvLVkwqzkAAAX HTTP/1.1" 200 -
+2025-02-26 18:46:59,825 - INFO - 127.0.0.1 - - [26/Feb/2025 18:46:59] "GET /socket.io/?EIO=4&transport=polling&t=7jprvbso HTTP/1.1" 200 -
+2025-02-26 18:47:00,081 - INFO - 127.0.0.1 - - [26/Feb/2025 18:47:00] "POST /socket.io/?EIO=4&transport=polling&t=7jq0pprd&sid=MhIy7oSxQ5MRAVXGAAAZ HTTP/1.1" 200 -
+2025-02-26 18:47:00,174 - INFO - 127.0.0.1 - - [26/Feb/2025 18:47:00] "GET /socket.io/?EIO=4&transport=polling&t=7jq0sjsu&sid=MhIy7oSxQ5MRAVXGAAAZ HTTP/1.1" 200 -
+2025-02-26 18:47:05,689 - INFO - Encrypted: ransomware_simulation.log
+2025-02-26 18:47:05,693 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 18:47:05,709 - INFO - Encrypted: README.md
+2025-02-26 18:47:05,711 - INFO - Ransom note created.
+2025-02-26 18:47:05,715 - INFO - 127.0.0.1 - - [26/Feb/2025 18:47:05] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 18:47:22,458 - INFO - 127.0.0.1 - - [26/Feb/2025 18:47:22] "GET /socket.io/?EIO=4&transport=websocket&sid=MhIy7oSxQ5MRAVXGAAAZ HTTP/1.1" 200 -
+2025-02-26 18:47:22,856 - INFO - 127.0.0.1 - - [26/Feb/2025 18:47:22] "GET /socket.io/?EIO=4&transport=polling&t=7k7jp89w HTTP/1.1" 200 -
+2025-02-26 18:47:23,134 - INFO - 127.0.0.1 - - [26/Feb/2025 18:47:23] "POST /socket.io/?EIO=4&transport=polling&t=7k7scgz1&sid=32tbp2xpMnnd4rmIAAAb HTTP/1.1" 200 -
+2025-02-26 18:47:23,187 - INFO - 127.0.0.1 - - [26/Feb/2025 18:47:23] "GET /socket.io/?EIO=4&transport=polling&t=7k7seoef&sid=32tbp2xpMnnd4rmIAAAb HTTP/1.1" 200 -
+2025-02-26 18:47:23,223 - INFO - 127.0.0.1 - - [26/Feb/2025 18:47:23] "GET /socket.io/?EIO=4&transport=polling&t=7k8221up&sid=32tbp2xpMnnd4rmIAAAb HTTP/1.1" 200 -
+2025-02-26 18:49:10,683 - INFO -  * Detected change in 'C:\\Users\\KELLY\\Desktop\\ransomware simulation\\backend\\gui.py', reloading
+2025-02-26 18:49:11,049 - INFO -  * Restarting with stat
