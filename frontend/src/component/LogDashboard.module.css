@@ -1,0 +1,28 @@
+/* LogDashboard.module.css */
+.dashboard {
+  background-color: #2d3748; /* dark gray */
+  color: #fff;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-top: 1rem;
+  max-height: 250px;
+  overflow-y: auto;
+}
+
+.logContainer {
+  max-height: 200px;
+  overflow-y: auto;
+  margin-top: 0.5rem;
+}
+
+.logEntry {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #4a5568; /* lighter gray */
+}
+
+.timestamp {
+  font-size: 0.75rem;
+  color: #a0aec0; /* muted text */
+  margin-right: 0.5rem;
+  font-family: monospace;
+}

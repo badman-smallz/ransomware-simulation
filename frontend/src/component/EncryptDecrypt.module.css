@@ -1,0 +1,100 @@
+/* EncryptDecrypt.module.css */
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #1a202c; /* gray-900 */
+    color: white;
+    padding: 1rem;
+  }
+  
+  .header {
+    font-size: 1.875rem; /* text-3xl */
+    font-weight: bold;
+    margin-bottom: 1.5rem; /* mb-6 */
+  }
+  
+  .button {
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    border: none;
+    margin-right: 0.5rem;
+  }
+  
+  .encryptButton {
+    background-color: #e53e3e; /* red-600 */
+    color: white;
+  }
+  
+  .encryptButton:hover {
+    background-color: #c53030; /* red-700 */
+  }
+  
+  .decryptButton {
+    background-color: #48bb78; /* green-600 */
+    color: white;
+  }
+  
+  .decryptButton:hover {
+    background-color: #38a169; /* green-700 */
+  }
+  
+  .fileList {
+    width: 100%;
+    max-width: 640px;
+  }
+  
+  .fileItem {
+    border: 1px solid #e2e8f0; /* gray-300 */
+    padding: 1rem;
+    margin: 0.5rem 0;
+    border-radius: 0.5rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ransomNote {
+    background-color: #fed7d7; /* red-100 */
+    color: #1a202c;
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+  
+  .modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modalContent {
+    background: white;
+    color: black;
+    padding: 2rem;
+    border-radius: 0.5rem;
+    width: 300px;
+    text-align: center;
+  }
+  
+  .progressBarContainer {
+    width: 100%;
+    background-color: #e2e8f0;
+    border-radius: 0.25rem;
+    margin: 1rem 0;
+  }
+  
+  .progressBar {
+    height: 1rem;
+    background-color: #48bb78;
+    border-radius: 0.25rem;
+    width: 0%;
+    transition: width 0.5s ease;
+  }
+  

@@ -1,0 +1,198 @@
+/* === GLOBAL RESETS === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  scroll-behavior: smooth;
+}
+
+/* === ROOT VARIABLES === */
+:root {
+  --primary-color: #4f46e5; /* Indigo */
+  --secondary-color: #9333ea; /* Purple */
+  --danger-color: #dc2626; /* Red */
+  --success-color: #16a34a; /* Green */
+  --warning-color: #f59e0b; /* Orange */
+  --gray-dark: #1a202c;
+  --gray-light: #e2e8f0;
+  --text-light: #ffffff;
+  --text-dark: #111827;
+  --border-radius: 8px;
+}
+
+/* === BODY === */
+body {
+  background-color: var(--gray-dark);
+  color: var(--text-light);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease-in-out;
+}
+
+/* === HEADINGS === */
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+}
+
+/* === BUTTONS === */
+button {
+  padding: 0.6rem 1.2rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--border-radius);
+  border: none;
+  cursor: pointer;
+  transition: background 0.2s ease-in-out;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  color: var(--text-light);
+}
+
+.btn-primary:hover {
+  background-color: #4338ca;
+}
+
+.btn-danger {
+  background-color: var(--danger-color);
+  color: var(--text-light);
+}
+
+.btn-danger:hover {
+  background-color: #b91c1c;
+}
+
+.btn-success {
+  background-color: var(--success-color);
+  color: var(--text-light);
+}
+
+.btn-success:hover {
+  background-color: #15803d;
+}
+
+.btn-warning {
+  background-color: var(--warning-color);
+  color: var(--text-dark);
+}
+
+.btn-warning:hover {
+  background-color: #d97706;
+}
+
+/* === INPUT FIELDS === */
+input, textarea {
+  width: 100%;
+  padding: 0.8rem;
+  border-radius: var(--border-radius);
+  border: 1px solid var(--gray-light);
+  background: var(--gray-dark);
+  color: var(--text-light);
+  font-size: 1rem;
+}
+
+input:focus, textarea:focus {
+  outline: 2px solid var(--primary-color);
+}
+
+/* === FLEX UTILITIES === */
+.flex-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-space-between {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* === CARD COMPONENT === */
+.card {
+  background: var(--gray-dark);
+  padding: 1.5rem;
+  border-radius: var(--border-radius);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  width: 100%;
+  max-width: 400px;
+}
+
+/* === MODAL === */
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  width: 320px;
+  text-align: center;
+  color: var(--text-dark);
+}
+
+/* === LOADING SPINNER === */
+.spinner {
+  border: 4px solid var(--gray-light);
+  border-top: 4px solid var(--primary-color);
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+  margin: auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* === PROGRESS BAR === */
+.progress-container {
+  width: 100%;
+  background-color: var(--gray-light);
+  border-radius: var(--border-radius);
+  height: 8px;
+  margin-top: 1rem;
+}
+
+.progress-bar {
+  height: 100%;
+  background-color: var(--success-color);
+  border-radius: var(--border-radius);
+  width: 0%;
+  transition: width 0.4s ease-in-out;
+}

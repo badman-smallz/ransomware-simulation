@@ -1,0 +1,38 @@
+/* SettingsPanel.module.css */
+.panel {
+    background-color: #2d3748;
+    color: #fff;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  }
+  
+  .panel h3 {
+    margin-bottom: 0.75rem;
+    font-size: 1.25rem;
+    border-bottom: 1px solid #4a5568;
+    padding-bottom: 0.5rem;
+  }
+  
+  .field {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+  
+  .label {
+    flex: 0 0 150px;
+    font-weight: 600;
+  }
+  
+  .input {
+    flex: 1;
+    background-color: #1a202c;
+    border: 1px solid #4a5568;
+    padding: 0.4rem 0.6rem;
+    border-radius: 4px;
+    color: #fff;
+    font-size: 0.9rem;
+  }
+  

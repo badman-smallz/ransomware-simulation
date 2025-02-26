@@ -1,0 +1,281 @@
+2025-02-24 18:00:15,628 - INFO - Encrypted: ransomware_simulation.log
+2025-02-24 18:00:15,629 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-24 18:00:15,630 - INFO - Encrypted: README.md
+2025-02-24 18:10:09,185 - INFO - Encrypted: ransomware_simulation.log
+2025-02-24 18:10:09,186 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-24 18:10:09,187 - INFO - Encrypted: README.md
+2025-02-24 18:10:09,188 - INFO - Ransom note created.
+2025-02-24 18:11:19,006 - INFO - Encrypted: ransomware_simulation.log
+2025-02-24 18:11:19,018 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-24 18:11:19,019 - INFO - Encrypted: README.md
+2025-02-24 18:11:19,029 - INFO - Ransom note created.
+2025-02-24 18:33:12,162 - INFO - Encrypted: ransomware_simulation.log
+2025-02-24 18:33:12,178 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-24 18:33:12,180 - INFO - Encrypted: README.md
+2025-02-24 18:33:12,181 - INFO - Ransom note created.
+2025-02-24 18:33:45,408 - INFO - Decrypted: ransomware_simulation.log
+2025-02-25 08:45:09,968 - INFO - Encrypted: ransomware_simulation.log
+2025-02-25 08:45:09,996 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 08:45:10,033 - INFO - Encrypted: README.md
+2025-02-25 08:45:10,035 - INFO - Ransom note created.
+2025-02-25 09:03:07,390 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.226:5000
+2025-02-25 09:03:07,391 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-25 09:03:07,402 - INFO -  * Restarting with stat
+2025-02-25 09:03:08,809 - WARNING -  * Debugger is active!
+2025-02-25 09:03:08,821 - INFO -  * Debugger PIN: 127-083-301
+2025-02-25 09:03:54,590 - INFO - 127.0.0.1 - - [25/Feb/2025 09:03:54] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:03:54,617 - INFO - Encrypted: ransomware_simulation.log
+2025-02-25 09:03:54,624 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 09:03:54,645 - INFO - Encrypted: README.md
+2025-02-25 09:03:54,647 - INFO - Ransom note created.
+2025-02-25 09:03:54,649 - INFO - 127.0.0.1 - - [25/Feb/2025 09:03:54] "POST /encrypt HTTP/1.1" 200 -
+2025-02-25 09:04:04,662 - INFO - Decrypted: ransomware_simulation.log
+2025-02-25 09:04:04,682 - INFO - 127.0.0.1 - - [25/Feb/2025 09:04:04] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:04:05,009 - INFO - 127.0.0.1 - - [25/Feb/2025 09:04:05] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:04:06,345 - INFO - 127.0.0.1 - - [25/Feb/2025 09:04:06] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:04:06,371 - INFO - 127.0.0.1 - - [25/Feb/2025 09:04:06] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:04:07,266 - INFO - Encrypted: ransomware_simulation.log
+2025-02-25 09:04:07,268 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 09:04:07,286 - INFO - Encrypted: README.md
+2025-02-25 09:04:07,287 - INFO - Ransom note created.
+2025-02-25 09:04:07,288 - INFO - 127.0.0.1 - - [25/Feb/2025 09:04:07] "POST /encrypt HTTP/1.1" 200 -
+2025-02-25 09:04:07,645 - INFO - Encrypted: ransomware_simulation.log
+2025-02-25 09:04:07,652 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 09:04:07,682 - INFO - Encrypted: README.md
+2025-02-25 09:04:07,684 - INFO - Ransom note created.
+2025-02-25 09:04:07,686 - INFO - 127.0.0.1 - - [25/Feb/2025 09:04:07] "POST /encrypt HTTP/1.1" 200 -
+2025-02-25 09:07:16,891 - INFO - Encrypted: ransomware_simulation.log
+2025-02-25 09:07:16,892 - INFO - Encrypted: ransomware_simulation.log
+2025-02-25 09:07:16,898 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 09:07:16,900 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 09:07:16,935 - INFO - Encrypted: README.md
+2025-02-25 09:07:16,936 - INFO - Encrypted: README.md
+2025-02-25 09:07:16,938 - INFO - Ransom note created.
+2025-02-25 09:07:16,940 - INFO - 127.0.0.1 - - [25/Feb/2025 09:07:16] "POST /encrypt HTTP/1.1" 200 -
+2025-02-25 09:07:16,941 - INFO - Ransom note created.
+2025-02-25 09:07:16,943 - INFO - 127.0.0.1 - - [25/Feb/2025 09:07:16] "POST /encrypt HTTP/1.1" 200 -
+2025-02-25 09:07:23,961 - INFO - Decrypted: ransomware_simulation.log
+2025-02-25 09:07:23,979 - INFO - 127.0.0.1 - - [25/Feb/2025 09:07:23] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:07:24,316 - INFO - 127.0.0.1 - - [25/Feb/2025 09:07:24] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:07:25,134 - INFO - 127.0.0.1 - - [25/Feb/2025 09:07:25] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:07:25,158 - INFO - 127.0.0.1 - - [25/Feb/2025 09:07:25] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:07:25,394 - INFO - 127.0.0.1 - - [25/Feb/2025 09:07:25] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:11:04,436 - INFO - 127.0.0.1 - - [25/Feb/2025 09:11:04] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:11:15,614 - INFO - 127.0.0.1 - - [25/Feb/2025 09:11:15] "[35m[1mPOST /decrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:14:47,419 - INFO -  * Detected change in 'C:\\Users\\KELLY\\Desktop\\ransomware simulation\\main.py', reloading
+2025-02-25 09:14:47,773 - INFO -  * Restarting with stat
+2025-02-25 09:29:04,836 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.43.226:5000
+2025-02-25 09:29:04,837 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-25 09:29:04,843 - INFO -  * Restarting with stat
+2025-02-25 09:29:05,938 - WARNING -  * Debugger is active!
+2025-02-25 09:29:05,944 - INFO -  * Debugger PIN: 127-083-301
+2025-02-25 09:29:31,037 - INFO - 127.0.0.1 - - [25/Feb/2025 09:29:31] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:29:31,043 - INFO - 127.0.0.1 - - [25/Feb/2025 09:29:31] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:31:03,976 - INFO -  * Detected change in 'C:\\Users\\KELLY\\Desktop\\ransomware simulation\\encryptor.py', reloading
+2025-02-25 09:31:04,085 - INFO -  * Restarting with stat
+2025-02-25 09:31:05,443 - WARNING -  * Debugger is active!
+2025-02-25 09:31:05,451 - INFO -  * Debugger PIN: 127-083-301
+2025-02-25 09:31:09,918 - INFO - Encrypted: ransomware_simulation.log
+2025-02-25 09:31:09,959 - INFO - Encrypted: ransomware_simulation.log.locked
+2025-02-25 09:31:09,967 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 09:31:10,010 - INFO - 127.0.0.1 - - [25/Feb/2025 09:31:10] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-02-25 09:31:10,030 - INFO - Encrypted: README.md
+2025-02-25 09:31:10,037 - INFO - Ransom note created.
+2025-02-25 09:31:10,040 - INFO - 127.0.0.1 - - [25/Feb/2025 09:31:10] "POST /encrypt HTTP/1.1" 200 -
+2025-02-25 09:31:16,011 - INFO - Decrypted: ransomware_simulation.log.locked.locked
+2025-02-25 09:31:16,028 - INFO - Decrypted: RANSOM_NOTE.txt.locked
+2025-02-25 09:31:16,043 - INFO - Decrypted: README.md.locked
+2025-02-25 09:31:16,043 - INFO - Files successfully decrypted.
+2025-02-25 09:31:16,044 - INFO - 127.0.0.1 - - [25/Feb/2025 09:31:16] "POST /decrypt HTTP/1.1" 200 -
+2025-02-25 09:31:16,335 - INFO - Files successfully decrypted.
+2025-02-25 09:31:16,336 - INFO - 127.0.0.1 - - [25/Feb/2025 09:31:16] "POST /decrypt HTTP/1.1" 200 -
+2025-02-25 09:40:00,535 - INFO - Encrypted: ransomware_simulation.log
+2025-02-25 09:40:00,546 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 09:40:00,555 - INFO - Encrypted: README.md
+2025-02-25 09:40:00,558 - INFO - Ransom note created.
+2025-02-25 09:40:00,560 - INFO - 127.0.0.1 - - [25/Feb/2025 09:40:00] "POST /encrypt HTTP/1.1" 200 -
+2025-02-25 12:04:22,817 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-02-25 12:04:22,818 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-25 12:04:22,822 - INFO -  * Restarting with stat
+2025-02-25 12:04:23,760 - WARNING -  * Debugger is active!
+2025-02-25 12:04:23,768 - INFO -  * Debugger PIN: 127-083-301
+2025-02-25 12:05:17,409 - INFO - Encrypted: ransomware_simulation.log.locked
+2025-02-25 12:05:17,415 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-25 12:05:17,454 - INFO - Encrypted: RANSOM_NOTE.txt.locked
+2025-02-25 12:05:17,465 - INFO - Encrypted: README.md.locked
+2025-02-25 12:05:17,467 - INFO - Ransom note created.
+2025-02-25 12:05:17,471 - INFO - 127.0.0.1 - - [25/Feb/2025 12:05:17] "POST /encrypt HTTP/1.1" 200 -
+2025-02-25 12:05:17,471 - INFO - Encrypted: ransomware_simulation.log.locked.locked
+2025-02-25 12:05:17,587 - INFO - 127.0.0.1 - - [25/Feb/2025 12:05:17] "[35m[1mPOST /encrypt HTTP/1.1[0m" 500 -
+2025-02-25 12:05:41,071 - INFO - Decrypted: ransomware_simulation.log.locked.locked.locked
+2025-02-25 12:05:41,087 - INFO - Decrypted: RANSOM_NOTE.txt.locked.locked
+2025-02-25 12:05:41,104 - INFO - Decrypted: README.md.locked.locked
+2025-02-25 12:05:41,104 - INFO - Files successfully decrypted.
+2025-02-25 12:05:41,105 - INFO - 127.0.0.1 - - [25/Feb/2025 12:05:41] "POST /decrypt HTTP/1.1" 200 -
+2025-02-25 12:05:41,380 - INFO - Files successfully decrypted.
+2025-02-25 12:05:41,381 - INFO - 127.0.0.1 - - [25/Feb/2025 12:05:41] "POST /decrypt HTTP/1.1" 200 -
+2025-02-26 14:42:16,995 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.86.125:5000
+2025-02-26 14:42:16,996 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-26 14:42:17,000 - INFO -  * Restarting with stat
+2025-02-26 14:42:18,047 - WARNING -  * Debugger is active!
+2025-02-26 14:42:18,085 - INFO -  * Debugger PIN: 127-083-301
+2025-02-26 14:43:05,462 - INFO - Encrypted: ransomware_simulation.log
+2025-02-26 14:43:05,501 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 14:43:05,538 - INFO - Encrypted: README.md
+2025-02-26 14:43:05,541 - INFO - Ransom note created.
+2025-02-26 14:43:05,547 - INFO - 127.0.0.1 - - [26/Feb/2025 14:43:05] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 14:50:32,938 - INFO - Encrypted: ransomware_simulation.log.locked
+2025-02-26 14:50:32,971 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 14:50:33,007 - INFO - Encrypted: RANSOM_NOTE.txt.locked
+2025-02-26 14:50:33,035 - INFO - Encrypted: README.md.locked
+2025-02-26 14:50:33,037 - INFO - Ransom note created.
+2025-02-26 14:50:33,039 - INFO - 127.0.0.1 - - [26/Feb/2025 14:50:33] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 14:51:01,940 - INFO - Decrypted: ransomware_simulation.log.locked.locked
+2025-02-26 14:51:01,955 - INFO - Decrypted: RANSOM_NOTE.txt.locked.locked
+2025-02-26 14:51:01,972 - INFO - Decrypted: README.md.locked.locked
+2025-02-26 14:51:01,972 - INFO - Files successfully decrypted.
+2025-02-26 14:51:01,973 - INFO - 127.0.0.1 - - [26/Feb/2025 14:51:01] "POST /decrypt HTTP/1.1" 200 -
+2025-02-26 14:55:38,474 - INFO - Encrypted: ransomware_simulation.log
+2025-02-26 14:55:38,483 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 14:55:38,523 - INFO - Encrypted: README.md
+2025-02-26 14:55:38,529 - INFO - Ransom note created.
+2025-02-26 14:55:38,531 - INFO - 127.0.0.1 - - [26/Feb/2025 14:55:38] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 15:04:02,576 - INFO - Decrypted: ransomware_simulation.log.locked
+2025-02-26 15:04:02,607 - INFO - Decrypted: RANSOM_NOTE.txt.locked
+2025-02-26 15:04:02,650 - INFO - Decrypted: README.md.locked
+2025-02-26 15:04:02,651 - INFO - Files successfully decrypted.
+2025-02-26 15:04:02,652 - INFO - 127.0.0.1 - - [26/Feb/2025 15:04:02] "POST /decrypt HTTP/1.1" 200 -
+2025-02-26 15:04:05,460 - INFO - Encrypted: ransomware_simulation.log
+2025-02-26 15:04:05,463 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 15:04:05,476 - INFO - Encrypted: README.md
+2025-02-26 15:04:05,477 - INFO - Ransom note created.
+2025-02-26 15:04:05,478 - INFO - 127.0.0.1 - - [26/Feb/2025 15:04:05] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 15:22:25,222 - INFO -  * Detected change in 'C:\\Users\\KELLY\\Desktop\\ransomware simulation\\main.py', reloading
+2025-02-26 15:22:25,394 - INFO -  * Restarting with stat
+2025-02-26 15:22:27,015 - WARNING -  * Debugger is active!
+2025-02-26 15:22:27,023 - INFO -  * Debugger PIN: 127-083-301
+2025-02-26 15:41:53,215 - INFO - 127.0.0.1 - - [26/Feb/2025 15:41:53] "GET /socket.io/?EIO=4&transport=polling&t=0xo3ahe6 HTTP/1.1" 200 -
+2025-02-26 15:41:53,600 - INFO - 127.0.0.1 - - [26/Feb/2025 15:41:53] "POST /socket.io/?EIO=4&transport=polling&t=0xo5hr64&sid=jGiEbvcwbMcMpKtqAAAA HTTP/1.1" 200 -
+2025-02-26 15:41:53,607 - INFO - 127.0.0.1 - - [26/Feb/2025 15:41:53] "GET /socket.io/?EIO=4&transport=polling&t=0xo5krnv&sid=jGiEbvcwbMcMpKtqAAAA HTTP/1.1" 200 -
+2025-02-26 15:41:53,861 - INFO - 127.0.0.1 - - [26/Feb/2025 15:41:53] "GET /socket.io/?EIO=4&transport=polling&t=0xoewch4&sid=jGiEbvcwbMcMpKtqAAAA HTTP/1.1" 200 -
+2025-02-26 15:48:22,028 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:22] "GET /socket.io/?EIO=4&transport=websocket&sid=jGiEbvcwbMcMpKtqAAAA HTTP/1.1" 200 -
+2025-02-26 15:48:22,422 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:22] "GET /socket.io/?EIO=4&transport=polling&t=16064pwn HTTP/1.1" 200 -
+2025-02-26 15:48:22,687 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:22] "POST /socket.io/?EIO=4&transport=polling&t=160ew5nv&sid=7WKZNw2zz7KTVMjrAAAC HTTP/1.1" 200 -
+2025-02-26 15:48:22,733 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:22] "GET /socket.io/?EIO=4&transport=polling&t=160expo4&sid=7WKZNw2zz7KTVMjrAAAC HTTP/1.1" 200 -
+2025-02-26 15:48:22,740 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:22] "GET /socket.io/?EIO=4&transport=polling&t=160nlt5w&sid=7WKZNw2zz7KTVMjrAAAC HTTP/1.1" 200 -
+2025-02-26 15:48:23,698 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:23] "GET /socket.io/?EIO=4&transport=websocket&sid=7WKZNw2zz7KTVMjrAAAC HTTP/1.1" 200 -
+2025-02-26 15:48:24,055 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:24] "GET /socket.io/?EIO=4&transport=polling&t=161fofz1 HTTP/1.1" 200 -
+2025-02-26 15:48:24,317 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:24] "POST /socket.io/?EIO=4&transport=polling&t=161o9dss&sid=_rOw-W0ZjWTuMED1AAAE HTTP/1.1" 200 -
+2025-02-26 15:48:24,363 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:24] "GET /socket.io/?EIO=4&transport=polling&t=161oaqkb&sid=_rOw-W0ZjWTuMED1AAAE HTTP/1.1" 200 -
+2025-02-26 15:48:24,369 - INFO - 127.0.0.1 - - [26/Feb/2025 15:48:24] "GET /socket.io/?EIO=4&transport=polling&t=161wwilp&sid=_rOw-W0ZjWTuMED1AAAE HTTP/1.1" 200 -
+2025-02-26 15:49:13,750 - INFO - Encrypted: ransomware_simulation.log.locked
+2025-02-26 15:49:13,753 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 15:49:13,765 - INFO - Encrypted: RANSOM_NOTE.txt.locked
+2025-02-26 15:49:13,779 - INFO - Encrypted: README.md.locked
+2025-02-26 15:49:13,781 - INFO - Ransom note created.
+2025-02-26 15:49:13,782 - INFO - 127.0.0.1 - - [26/Feb/2025 15:49:13] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 15:49:38,380 - INFO - Encrypted: ransomware_simulation.log.locked.locked
+2025-02-26 15:49:38,383 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 15:49:38,395 - INFO - Encrypted: RANSOM_NOTE.txt.locked.locked
+2025-02-26 15:49:38,410 - INFO - Encrypted: README.md.locked.locked
+2025-02-26 15:49:38,410 - INFO - Ransom note created.
+2025-02-26 15:49:38,411 - INFO - 127.0.0.1 - - [26/Feb/2025 15:49:38] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 15:49:43,515 - INFO - Decrypted: ransomware_simulation.log.locked.locked.locked
+2025-02-26 15:49:43,525 - INFO - Decrypted: RANSOM_NOTE.txt.locked
+2025-02-26 15:49:43,536 - INFO - Decrypted: RANSOM_NOTE.txt.locked.locked.locked
+2025-02-26 15:49:43,548 - INFO - Decrypted: README.md.locked.locked.locked
+2025-02-26 15:49:43,548 - INFO - Files successfully decrypted.
+2025-02-26 15:49:43,549 - INFO - 127.0.0.1 - - [26/Feb/2025 15:49:43] "POST /decrypt HTTP/1.1" 200 -
+2025-02-26 15:49:47,879 - INFO - Encrypted: ransomware_simulation.log
+2025-02-26 15:49:47,882 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 15:49:47,894 - INFO - Encrypted: README.md
+2025-02-26 15:49:47,895 - INFO - Ransom note created.
+2025-02-26 15:49:47,895 - INFO - 127.0.0.1 - - [26/Feb/2025 15:49:47] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 15:56:46,241 - INFO - 127.0.0.1 - - [26/Feb/2025 15:56:46] "GET /socket.io/?EIO=4&transport=websocket&sid=_rOw-W0ZjWTuMED1AAAE HTTP/1.1" 200 -
+2025-02-26 15:56:46,591 - INFO - 127.0.0.1 - - [26/Feb/2025 15:56:46] "GET /socket.io/?EIO=4&transport=polling&t=1gt72xv7 HTTP/1.1" 200 -
+2025-02-26 15:56:46,857 - INFO - 127.0.0.1 - - [26/Feb/2025 15:56:46] "POST /socket.io/?EIO=4&transport=polling&t=1gtflab3&sid=8vnRfkjUBTEClQ9-AAAG HTTP/1.1" 200 -
+2025-02-26 15:56:46,905 - INFO - 127.0.0.1 - - [26/Feb/2025 15:56:46] "GET /socket.io/?EIO=4&transport=polling&t=1gtfmtbs&sid=8vnRfkjUBTEClQ9-AAAG HTTP/1.1" 200 -
+2025-02-26 15:56:46,911 - INFO - 127.0.0.1 - - [26/Feb/2025 15:56:46] "GET /socket.io/?EIO=4&transport=polling&t=1gtocvar&sid=8vnRfkjUBTEClQ9-AAAG HTTP/1.1" 200 -
+2025-02-26 16:47:02,906 - INFO - 127.0.0.1 - - [26/Feb/2025 16:47:02] "GET /socket.io/?EIO=4&transport=websocket&sid=8vnRfkjUBTEClQ9-AAAG HTTP/1.1" 200 -
+2025-02-26 16:48:15,700 - INFO - 127.0.0.1 - - [26/Feb/2025 16:48:15] "GET /socket.io/?EIO=4&transport=polling&t=3b0m6vit HTTP/1.1" 200 -
+2025-02-26 16:48:18,232 - INFO - 127.0.0.1 - - [26/Feb/2025 16:48:18] "POST /socket.io/?EIO=4&transport=polling&t=3b13f63j&sid=IME6aBCYcdDyBPV9AAAI HTTP/1.1" 200 -
+2025-02-26 16:48:18,396 - INFO - 127.0.0.1 - - [26/Feb/2025 16:48:18] "GET /socket.io/?EIO=4&transport=polling&t=3b32dmc6 HTTP/1.1" 200 -
+2025-02-26 16:48:18,687 - INFO - 127.0.0.1 - - [26/Feb/2025 16:48:18] "POST /socket.io/?EIO=4&transport=polling&t=3b333s21&sid=_qrBP4XzTTadK81mAAAJ HTTP/1.1" 200 -
+2025-02-26 16:48:18,707 - INFO - 127.0.0.1 - - [26/Feb/2025 16:48:18] "GET /socket.io/?EIO=4&transport=polling&t=3b336gl2&sid=_qrBP4XzTTadK81mAAAJ HTTP/1.1" 200 -
+2025-02-26 17:00:02,956 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:02] "GET /socket.io/?EIO=4&transport=websocket&sid=_qrBP4XzTTadK81mAAAJ HTTP/1.1" 200 -
+2025-02-26 17:00:07,108 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:07] "GET /socket.io/?EIO=4&transport=polling&t=3q9oukzy HTTP/1.1" 200 -
+2025-02-26 17:00:07,370 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:07] "POST /socket.io/?EIO=4&transport=polling&t=3q9xkd9k&sid=zeepr99O0s60NHTOAAAL HTTP/1.1" 200 -
+2025-02-26 17:00:07,421 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:07] "GET /socket.io/?EIO=4&transport=polling&t=3q9xl4t8&sid=zeepr99O0s60NHTOAAAL HTTP/1.1" 200 -
+2025-02-26 17:00:07,445 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:07] "GET /socket.io/?EIO=4&transport=polling&t=3qa6flgh&sid=zeepr99O0s60NHTOAAAL HTTP/1.1" 200 -
+2025-02-26 17:00:23,905 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:23] "GET /socket.io/?EIO=4&transport=websocket&sid=zeepr99O0s60NHTOAAAL HTTP/1.1" 200 -
+2025-02-26 17:00:24,271 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:24] "GET /socket.io/?EIO=4&transport=polling&t=3qmxjk1x HTTP/1.1" 200 -
+2025-02-26 17:00:24,534 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:24] "POST /socket.io/?EIO=4&transport=polling&t=3qn69sns&sid=cSr7japUkLlhkCIHAAAN HTTP/1.1" 200 -
+2025-02-26 17:00:24,581 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:24] "GET /socket.io/?EIO=4&transport=polling&t=3qn6b5at&sid=cSr7japUkLlhkCIHAAAN HTTP/1.1" 200 -
+2025-02-26 17:00:24,589 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:24] "GET /socket.io/?EIO=4&transport=polling&t=3qnezaq5&sid=cSr7japUkLlhkCIHAAAN HTTP/1.1" 200 -
+2025-02-26 17:00:35,072 - INFO - Encrypted: ransomware_simulation.log.locked
+2025-02-26 17:00:35,075 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 17:00:35,086 - INFO - Encrypted: RANSOM_NOTE.txt.locked
+2025-02-26 17:00:35,100 - INFO - Encrypted: README.md.locked
+2025-02-26 17:00:35,102 - INFO - Ransom note created.
+2025-02-26 17:00:35,104 - INFO - 127.0.0.1 - - [26/Feb/2025 17:00:35] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 17:02:15,745 - INFO - 127.0.0.1 - - [26/Feb/2025 17:02:15] "GET /socket.io/?EIO=4&transport=websocket&sid=cSr7japUkLlhkCIHAAAN HTTP/1.1" 200 -
+2025-02-26 17:02:16,119 - INFO - 127.0.0.1 - - [26/Feb/2025 17:02:16] "GET /socket.io/?EIO=4&transport=polling&t=3t18i125 HTTP/1.1" 200 -
+2025-02-26 17:02:16,375 - INFO - 127.0.0.1 - - [26/Feb/2025 17:02:16] "POST /socket.io/?EIO=4&transport=polling&t=3t1h5r42&sid=i7uT5eODXPw4HKPjAAAP HTTP/1.1" 200 -
+2025-02-26 17:02:16,429 - INFO - 127.0.0.1 - - [26/Feb/2025 17:02:16] "GET /socket.io/?EIO=4&transport=polling&t=3t1h6akd&sid=i7uT5eODXPw4HKPjAAAP HTTP/1.1" 200 -
+2025-02-26 17:02:16,434 - INFO - 127.0.0.1 - - [26/Feb/2025 17:02:16] "GET /socket.io/?EIO=4&transport=polling&t=3t1psm83&sid=i7uT5eODXPw4HKPjAAAP HTTP/1.1" 200 -
+2025-02-26 17:02:41,712 - INFO - Encrypted: ransomware_simulation.log.locked.locked
+2025-02-26 17:02:41,715 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 17:02:41,726 - INFO - Encrypted: RANSOM_NOTE.txt.locked.locked
+2025-02-26 17:02:41,739 - INFO - Encrypted: README.md.locked.locked
+2025-02-26 17:02:41,740 - INFO - Ransom note created.
+2025-02-26 17:02:41,740 - INFO - 127.0.0.1 - - [26/Feb/2025 17:02:41] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 17:02:53,747 - INFO - Encrypted: ransomware_simulation.log.locked.locked.locked
+2025-02-26 17:02:53,750 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 17:02:53,761 - INFO - Encrypted: RANSOM_NOTE.txt.locked
+2025-02-26 17:02:53,772 - INFO - Encrypted: RANSOM_NOTE.txt.locked.locked.locked
+2025-02-26 17:02:53,789 - INFO - Encrypted: README.md.locked.locked.locked
+2025-02-26 17:02:53,790 - INFO - Ransom note created.
+2025-02-26 17:02:53,791 - INFO - 127.0.0.1 - - [26/Feb/2025 17:02:53] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 17:03:32,552 - INFO - 127.0.0.1 - - [26/Feb/2025 17:03:32] "GET /socket.io/?EIO=4&transport=websocket&sid=i7uT5eODXPw4HKPjAAAP HTTP/1.1" 200 -
+2025-02-26 17:03:32,943 - INFO - 127.0.0.1 - - [26/Feb/2025 17:03:32] "GET /socket.io/?EIO=4&transport=polling&t=3uoi86jl HTTP/1.1" 200 -
+2025-02-26 17:03:33,190 - INFO - 127.0.0.1 - - [26/Feb/2025 17:03:33] "POST /socket.io/?EIO=4&transport=polling&t=3uor4v7i&sid=e3nJc6434o5gut7rAAAR HTTP/1.1" 200 -
+2025-02-26 17:03:33,255 - INFO - 127.0.0.1 - - [26/Feb/2025 17:03:33] "GET /socket.io/?EIO=4&transport=polling&t=3uor5dxb&sid=e3nJc6434o5gut7rAAAR HTTP/1.1" 200 -
+2025-02-26 17:04:16,810 - INFO - Encrypted: ransomware_simulation.log.locked.locked.locked.locked
+2025-02-26 17:04:16,815 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 17:04:16,829 - INFO - Encrypted: RANSOM_NOTE.txt.locked.locked
+2025-02-26 17:04:16,844 - INFO - Encrypted: RANSOM_NOTE.txt.locked.locked.locked.locked
+2025-02-26 17:04:16,862 - INFO - Encrypted: README.md.locked.locked.locked.locked
+2025-02-26 17:04:16,863 - INFO - Ransom note created.
+2025-02-26 17:04:16,864 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:16] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 17:04:35,119 - INFO - Encrypted: ransomware_simulation.log.locked.locked.locked.locked.locked
+2025-02-26 17:04:35,123 - INFO - Encrypted: RANSOM_NOTE.txt
+2025-02-26 17:04:35,133 - INFO - Encrypted: RANSOM_NOTE.txt.locked
+2025-02-26 17:04:35,145 - INFO - Encrypted: RANSOM_NOTE.txt.locked.locked.locked
+2025-02-26 17:04:35,157 - INFO - Encrypted: RANSOM_NOTE.txt.locked.locked.locked.locked.locked
+2025-02-26 17:04:35,170 - INFO - Encrypted: README.md.locked.locked.locked.locked.locked
+2025-02-26 17:04:35,171 - INFO - Ransom note created.
+2025-02-26 17:04:35,171 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:35] "POST /encrypt HTTP/1.1" 200 -
+2025-02-26 17:04:41,620 - INFO - Decrypted: ransomware_simulation.log.locked.locked.locked.locked.locked.locked
+2025-02-26 17:04:41,631 - INFO - Decrypted: RANSOM_NOTE.txt.locked.locked
+2025-02-26 17:04:41,642 - INFO - Decrypted: RANSOM_NOTE.txt.locked.locked.locked.locked
+2025-02-26 17:04:41,654 - INFO - Decrypted: RANSOM_NOTE.txt.locked.locked.locked.locked.locked.locked
+2025-02-26 17:04:41,670 - INFO - Decrypted: README.md.locked.locked.locked.locked.locked.locked
+2025-02-26 17:04:41,670 - INFO - Files successfully decrypted.
+2025-02-26 17:04:41,671 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:41] "POST /decrypt HTTP/1.1" 200 -
+2025-02-26 17:04:54,565 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:54] "GET /socket.io/?EIO=4&transport=websocket&sid=e3nJc6434o5gut7rAAAR HTTP/1.1" 200 -
+2025-02-26 17:04:54,951 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:54] "GET /socket.io/?EIO=4&transport=polling&t=3wfs99wu HTTP/1.1" 200 -
+2025-02-26 17:04:55,212 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:55] "POST /socket.io/?EIO=4&transport=polling&t=3wg155h1&sid=cECsu86OEFnSJtESAAAT HTTP/1.1" 200 -
+2025-02-26 17:04:55,264 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:55] "GET /socket.io/?EIO=4&transport=polling&t=3wg16xhy&sid=cECsu86OEFnSJtESAAAT HTTP/1.1" 200 -
+2025-02-26 17:04:55,270 - INFO - 127.0.0.1 - - [26/Feb/2025 17:04:55] "GET /socket.io/?EIO=4&transport=polling&t=3wg9vcuk&sid=cECsu86OEFnSJtESAAAT HTTP/1.1" 200 -
