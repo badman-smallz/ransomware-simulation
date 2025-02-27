@@ -1,0 +1,26 @@
+2025-02-26 18:50:00,123 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.86.125:5000
+2025-02-26 18:50:00,124 - INFO - [33mPress CTRL+C to quit[0m
+2025-02-26 18:50:00,124 - INFO -  * Restarting with stat
+2025-02-26 18:50:01,716 - WARNING -  * Debugger is active!
+2025-02-26 18:50:01,722 - INFO -  * Debugger PIN: 127-083-301
+2025-02-26 18:50:01,798 - INFO - 127.0.0.1 - - [26/Feb/2025 18:50:01] "GET /socket.io/?EIO=4&transport=polling&t=7njd9bcq HTTP/1.1" 200 -
+2025-02-26 18:50:01,808 - INFO - 127.0.0.1 - - [26/Feb/2025 18:50:01] "POST /socket.io/?EIO=4&transport=polling&t=7nmfh8yp&sid=_hxslNoMjNZqSvonAAAA HTTP/1.1" 200 -
+2025-02-26 18:50:02,125 - INFO - 127.0.0.1 - - [26/Feb/2025 18:50:02] "GET /socket.io/?EIO=4&transport=polling&t=7nmfjy2i&sid=_hxslNoMjNZqSvonAAAA HTTP/1.1" 200 -
+2025-02-26 18:50:19,449 - INFO - 127.0.0.1 - - [26/Feb/2025 18:50:19] "GET /socket.io/?EIO=4&transport=polling&t=7nzsoilh HTTP/1.1" 200 -
+2025-02-26 18:50:19,694 - INFO - 127.0.0.1 - - [26/Feb/2025 18:50:19] "POST /socket.io/?EIO=4&transport=polling&t=7o03452g&sid=x69vpnvix3LcWkEFAAAC HTTP/1.1" 200 -
+2025-02-26 18:50:19,821 - INFO - 127.0.0.1 - - [26/Feb/2025 18:50:19] "GET /socket.io/?EIO=4&transport=polling&t=7o038cwa&sid=x69vpnvix3LcWkEFAAAC HTTP/1.1" 200 -
+2025-02-26 18:50:19,847 - INFO - 127.0.0.1 - - [26/Feb/2025 18:50:19] "GET /socket.io/?EIO=4&transport=polling&t=7o0chhal&sid=x69vpnvix3LcWkEFAAAC HTTP/1.1" 200 -
+2025-02-26 19:43:11,047 - INFO - 127.0.0.1 - - [26/Feb/2025 19:43:11] "GET /socket.io/?EIO=4&transport=websocket&sid=x69vpnvix3LcWkEFAAAC HTTP/1.1" 200 -
+2025-02-26 19:43:11,048 - INFO - 127.0.0.1 - - [26/Feb/2025 19:43:11] "GET /socket.io/?EIO=4&transport=websocket&sid=_hxslNoMjNZqSvonAAAA HTTP/1.1" 200 -
+2025-02-26 19:52:18,138 - INFO - 127.0.0.1 - - [26/Feb/2025 19:52:18] "GET /socket.io/?EIO=4&transport=polling&t=9vnu0e0f HTTP/1.1" 200 -
+2025-02-26 19:52:18,140 - INFO - 127.0.0.1 - - [26/Feb/2025 19:52:18] "GET /socket.io/?EIO=4&transport=polling&t=9vntayx4 HTTP/1.1" 200 -
+2025-02-26 19:52:18,388 - INFO - 127.0.0.1 - - [26/Feb/2025 19:52:18] "POST /socket.io/?EIO=4&transport=polling&t=9vpen1o7&sid=IXqofH8ATvdfb13IAAAE HTTP/1.1" 200 -
+2025-02-26 19:52:18,448 - INFO - 127.0.0.1 - - [26/Feb/2025 19:52:18] "GET /socket.io/?EIO=4&transport=polling&t=9vpepi3r&sid=IXqofH8ATvdfb13IAAAE HTTP/1.1" 200 -
+2025-02-26 19:52:18,451 - INFO - 127.0.0.1 - - [26/Feb/2025 19:52:18] "POST /socket.io/?EIO=4&transport=polling&t=9vpeqwha&sid=cZVs-yVsjjl0ymF2AAAF HTTP/1.1" 200 -
+2025-02-26 19:52:18,453 - INFO - 127.0.0.1 - - [26/Feb/2025 19:52:18] "GET /socket.io/?EIO=4&transport=polling&t=9vper787&sid=cZVs-yVsjjl0ymF2AAAF HTTP/1.1" 200 -
+2025-02-26 19:52:18,465 - INFO - 127.0.0.1 - - [26/Feb/2025 19:52:18] "GET /socket.io/?EIO=4&transport=polling&t=9vpnf4ki&sid=cZVs-yVsjjl0ymF2AAAF HTTP/1.1" 200 -
+2025-02-26 20:20:01,343 - INFO - 127.0.0.1 - - [26/Feb/2025 20:20:01] "GET /socket.io/?EIO=4&transport=websocket&sid=IXqofH8ATvdfb13IAAAE HTTP/1.1" 200 -
+2025-02-26 20:20:01,607 - INFO - 127.0.0.1 - - [26/Feb/2025 20:20:01] "GET /socket.io/?EIO=4&transport=websocket&sid=cZVs-yVsjjl0ymF2AAAF HTTP/1.1" 200 -
